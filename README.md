@@ -7,16 +7,16 @@ Users can register to the system as either a buyer or seller and buyers can purc
 This repository include the customer application
 
 Function include:
-  --Create account
-  --Update profile
-  --Remove profile 
-  --View available product details
-  --Add products to the cart
-  --Update cart details
-  --Delete items from cart
-  --Add comments to the products
-  --View comments and rating
-  --View order history
-  --Delete order history
-  --Enter shipment details
+  *Create account
+  *Update profile
+  *Remove profile 
+  *View available product details
+  *Add products to the cart
+  *Update cart details
+  *Delete items from cart
+  *Add comments to the products
+  *View comments and rating
+  *View order history
+  *Delete order history
+  *Enter shipment details
 
