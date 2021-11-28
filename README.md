@@ -1,7 +1,7 @@
 # EasyBuy-Customer
 E commerce application
 
-##Technologies 
+ -  Technologies 
     React + Nodejs + MongoDB
 
 The “Easy Buy” is a web-based E-Commerce application where buyers and sellers can meet online. 
